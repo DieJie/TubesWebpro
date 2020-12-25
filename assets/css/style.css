@@ -1,0 +1,116 @@
+.hero1 {
+      background-color: #005073;
+      color: white;
+}
+
+.heroText h3 {
+      font-size: 32px;
+      right: 0;
+}
+
+.heroText p {
+      font-size: 20px;
+}
+
+.heroText .btn {
+      background-color: #fbab18;
+      padding: 15px;
+      border-radius: 30px;
+      border: none;
+      margin-left: auto;
+      width: fit-content;
+}
+
+.heroTe xt .btn:hover {
+      background-color: rgb(65, 65, 65);
+      color: white;
+}
+
+.headingTextSection2 {
+      text-align: center;
+}
+
+.btn {
+      background-color: #005073;
+      margin-top: 10px;
+      margin-left: 450px;
+      width: 230px;
+      padding: 7px;
+      border-radius: 30px;
+      border: none;
+}
+
+.enrollHero {
+      background-color: #005073;
+}
+
+.enrollHero .cyberHeroes {
+      font-size: 20px;
+      color: white;
+      margin-right: 20px;
+}
+
+.enrollHero .btnEnroll {
+      border-radius: 30px;
+      background-color: #005073;
+      border: 1px solid white;
+      color: white;
+      padding-left: 30px;
+      padding-right: 30px;
+}
+
+.enrollHero .btnEnroll:hover {
+      background-color: white;
+      color: black;
+      border: none;
+}
+
+.hero5 .titleCourse {
+      color: #005073;
+}
+
+.hero5 .btnSearch {
+      background-color: #005073;
+      border-radius: 30px;
+      padding: 6px 30px 6px 30px;
+}
+
+.hero5 .btnSearch:hover {
+      background-color: #0a79a8;
+}
+
+.back {
+      background-color: #f5f5f5;
+      color: #01a4d2;
+      padding: 15px;
+      height: 50px;
+      width: 95%;
+      margin-left: 20px;
+      margin-right: 30px;
+}
+
+.body3 {
+      background-color: grey;
+      color: white;
+      margin-top: 5px;
+}
+
+.body3 li {
+      list-style-type: none;
+      margin-top: 6px;
+}
+
+.body3 li a {
+      text-decoration: none;
+      color: white;
+      font-size: 14px;
+}
+
+.body3 li a:hover {
+      text-decoration: underline;
+}
+
+/* .body3 ul {
+      font-style: italic;
+      
+  } */

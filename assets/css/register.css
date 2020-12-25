@@ -1,0 +1,30 @@
+.super {
+    margin-bottom: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    background-color: #76C2D6;
+    width: 500px;
+    height: 1030px;
+    color: #000000;
+    top: 10%;
+    left-position: absolute;
+    box-sizing: border-box;
+    padding: 110px;
+    transform: translate(-50px, -50px, );
+}
+
+
+/*.login-box{
+
+	left: 33%;
+	position: absolute;
+	box-sizing: border-box;
+	padding: 110px;
+	transform: translate(-50px, -50px,);
+}*/
+
+.gambar width: 150px;
+height: 100px;
+position: absolute;
+top: -10px;
+left: 165

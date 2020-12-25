@@ -1,0 +1,36 @@
+.hero1 {
+    background-color: #6ebe4a;
+    color: black;
+}
+
+.heroText h3 {
+    font-size: 32px;
+}
+
+.heroText img {
+    right: 0;
+}
+
+.heroText p {
+    font-size: 18px;
+}
+
+.hero2 {
+    margin-left: px;
+    margin-right: px;
+}
+
+.cyberHeroes {
+    color: white;
+    font-size: large;
+    font-style: italic;
+}
+
+.superHero {
+    background-color: #005073;
+}
+
+.heroes {
+    color: white;
+    font-style: bold;
+}

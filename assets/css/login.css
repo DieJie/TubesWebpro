@@ -1,0 +1,106 @@
+body {
+    background-color: #F1FDFF;
+    font-family: sans-serif;
+}
+
+.form-label {
+    justify-content: flex-end;
+}
+
+.bodyHero {
+    background-color: white;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.bodyHero label {
+    font-size: 12px;
+    color: gray;
+}
+
+.bodyHero input[type="text"] {
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 1px solid gray;
+    margin: auto;
+    width: 100%;
+}
+
+.bodyHero input[type="password"] {
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 1px solid gray;
+    margin: auto;
+    width: 100%;
+}
+
+.btn {
+    background-color: #0a79a8;
+    border: none;
+    width: 100%;
+    padding: 10px;
+    border-radius: 30px;
+    padding: 10px 30px 15px 30px;
+}
+
+.btn:hover {
+    background-color: #005073;
+}
+
+.bodyHero a {
+    font-size: 12px;
+    text-decoration: none;
+    color: #5abaf7;
+}
+
+.bodyHero a:hover {
+    color: #2574a5;
+}
+
+.bodyHero hr {
+    width: 60%;
+}
+
+.bodyHero .textDescription {
+    width: 60%;
+    font-size: 14px;
+    color: rgb(63, 63, 63);
+}
+
+.bodyHero .btnOutline {
+    width: 60%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #5abaf7;
+    color: #5abaf7;
+}
+
+.bodyHero .btnOutline:hover {
+    background-color: #5abaf7;
+    color: white;
+}
+
+.bodyHero .descriptionText {
+    font-size: 12px;
+    width: 80%;
+}
+
+.bodyHero h6 {
+    font-weight: bold;
+}
+
+.bodyHero .descriptionDetail {
+    font-size: 12px;
+    width: 70%;
+}
+
+.bodyHero input:focus {
+    border-color: blue;
+}
+
+.footerContent {
+    width: max-content;
+}
